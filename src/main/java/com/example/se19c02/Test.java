@@ -11,5 +11,6 @@ package com.example.se19c02;
 public class Test {
     public static void main(){
         System.out.println("Hello you");
+        System.out.println("Hello world");
     }
 }
