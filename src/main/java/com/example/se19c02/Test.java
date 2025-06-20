@@ -9,5 +9,7 @@ package com.example.se19c02;
  * @author Admin
  */
 public class Test {
-    
+    public static void main(){
+        System.out.println("Hello you");
+    }
 }
